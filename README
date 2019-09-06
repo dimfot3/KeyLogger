@@ -1,0 +1,19 @@
+This is a Key Logger written in c++.
+Key Logger is a type of surveillance technology used to monitor and record each keystroke typed on a specific computer's keyboard.
+
+In order to run the script:
+ 1. in line 8 put the the full path of the text file you want to save the key strokes (the text file doesnot have to exist)
+ i.e "C:\\Users\\Yourname\\Desktop\\user\\log.txt" (the double "\\" is necessary for compiler to find the path)
+ 
+ 2. compile the program creating a executable file (to hide the executable file you should name it like a system file)
+ 
+ 3. run the executable file
+ 
+
+The result whould be all the key strokes from your keyboard to be saved in the txt file you chosed.
+
+In order to stop Keylogger you should go to task manger and stop your executable file.
+
+Extra-tip: you could also run it with the cmd open if you delete line 90.
+
+Use it wisely...
