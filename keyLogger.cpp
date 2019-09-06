@@ -1,4 +1,3 @@
-// -*- coding: utf8 -*-
 #include <iostream>
 #include <Windows.h>
 #include <stdio.h>
