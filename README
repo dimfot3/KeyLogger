@@ -1,5 +1,6 @@
 This is a Key Logger written in c++.
 Key Logger is a type of surveillance technology used to monitor and record each keystroke typed on a specific computer's keyboard.
+The are some issues on some special characters that will be fixed in upcoming versions.
 
 In order to run the script:
  1. in line 8 put the the full path of the text file you want to save the key strokes (the text file doesnot have to exist)
